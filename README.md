@@ -19,7 +19,9 @@ This dataset complies with Twitter’s Terms of Service and is licensed under th
 The total number of tweets is 104, 830, 630. The tweets will be updated furthermore.
 The statistics of five language tweets are shown in the following table:
 
+
 |Language      |Size      |Ratio      |
+| ---------- | :-----------:  | :-----------: |
 |En      |68532070      |0.6537408961483872      |
 |Es       |20755900       |0.1979946128340543      |
 |Ar       |7957489      | 0.07590805282768977      |
