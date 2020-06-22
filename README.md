@@ -1,7 +1,7 @@
 # SenWave: The public sentimental analysis dataset SenWave for Covid-19 research
 This dataset contains the unlabeled tweet IDs and labeled tweets used for sentimental analysis about Covid-19. The labeled tweets were organized in two languages (English and Arabic both with 10K) while the unlabeled tweet IDs were represents with only ID to comply with Twitter’s Terms of Service in five languages (English, Arabic, Spanish, French, and Italian). In order to make use of the unlabeled data as much as possible, we utilize Google translate(https://translate.google.com/) to translate the labeled English tweets into Spanish, French, and Italian. The translated tweets are in good quality after a large number of observations. The data was collected from March 1, 2020 with Twint(https://github.com/twintproject/twint). These data is only released for non-commercial research use.
 
-The associated paper to this repository can be found here: .
+The associated paper to this repository can be found here: SenWave: Monitoring the Global Sentiments under the COVID-19 Pandemic.
 
 # Data Organization
 The tweet IDs are organized as follows:
@@ -29,3 +29,12 @@ The statistics of five language tweets are shown in the following table:
 |It       |2684198       |0.02560509271002187      |
 
 # Citation
+
+@misc{yang2020senwave,
+    title={SenWave: Monitoring the Global Sentiments under the COVID-19 Pandemic},
+    author={Qiang Yang and Hind Alamro and Somayah Albaradei and Adil Salhi and Xiaoting Lv and Changsheng Ma and Manal Alshehri and Inji Jaber and Faroug Tifratene and Wei Wang and Takashi Gojobori and Carlos M. Duarte and Xin Gao and Xiangliang Zhang},
+    year={2020},
+    eprint={2006.10842},
+    archivePrefix={arXiv},
+    primaryClass={cs.SI}
+}
