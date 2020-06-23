@@ -11,7 +11,10 @@ The tweet IDs are organized as follows:
 4) Each Txt file named as covid19_tweet_id_date.txt stores the tweet IDs.
 5) The file statistics.txt counts the statistics of each language including the language, total size of this language, and the ratio in the all languages.
 
-The labeled tweets are organized in five CSV files where English tweets and Arabic tweets are originally annoted by experienced annotators and other three language tweets are translated with Google Translate from English tweets. The size of each kind of language tweets are all 10K.
+For the labeled tweets, we store them in the zip filefolder called labeledTweets.zip where they are organized in five CSV files where English tweets and Arabic tweets are originally annoted by experienced annotators and other three language tweets are translated with Google Translate from English tweets. The size of each kind of language tweets are all 10K.
+
+Note: If you want to use the labled tweets, please mail to qiang.yang[AT]kaust[dot]edu[dot]sa to get the pwd for the zip filefolder.
+
 # Data Usage Agreement
 This dataset complies with Twitter’s Terms of Service and is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0). If you use this dataset, this means that you agree with the license and term.
 
