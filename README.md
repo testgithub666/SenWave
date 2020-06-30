@@ -33,19 +33,9 @@ The statistics of five language tweets are shown in the following table:
 
 # Citation
 
-@misc{yang2020senwave,  
-    title={SenWave: Monitoring the Global Sentiments under the COVID-19 Pandemic},  
-    author={Qiang Yang and Hind Alamro and Somayah Albaradei and Adil Salhi and Xiaoting Lv and Changsheng Ma and Manal Alshehri and Inji Jaber and Faroug Tifratene and Wei Wang and Takashi Gojobori and Carlos M. Duarte and Xin Gao and Xiangliang Zhang},  
-    year={2020},  
-    eprint={2006.10842},  
-    archivePrefix={arXiv},  
-    primaryClass={cs.SI}  
-}  
-OR  
-@article{Yang2020SenWaveMT,  
+@article{yang2020senwave,  
   title={SenWave: Monitoring the Global Sentiments under the COVID-19 Pandemic},  
-  author={Qiang Yang and Hind Alamro and Somayah Albaradei and Adil Salhi and Xiao-ting Lv and Changsheng Ma and Manal Alshehri and Inji Jaber and Faroug Tifratene and Wei Wang and Takashi Gojobori and Carlos Marmolejo Duarte and Xin Gao and Xiangliang Zhang},  
-  journal={ArXiv},  
-  year={2020},  
-  volume={abs/2006.10842}  
+  author={Yang, Qiang and Alamro, Hind and Albaradei, Somayah and Salhi, Adil and Lv, Xiaoting and Ma, Changsheng and Alshehri, Manal and Jaber, Inji and Tifratene, Faroug and Wang, Wei and others},  
+  journal={arXiv preprint arXiv:2006.10842},  
+  year={2020}  
 }
