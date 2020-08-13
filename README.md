@@ -16,7 +16,7 @@ For the labeled tweets, we store them in the zip filefolder called labeledTweets
 Note: If you want to use the labled tweets, please mail to qiang.yang[AT]kaust[dot]edu[dot]sa to get the pwd for the zip filefolder.
 
 # Data Usage Agreement
-This dataset complies with Twitter’s Terms of Service and is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0). If you use this dataset, this means that you agree with the license and term.
+This dataset complies with Twitter’s Terms of Service. If you use this dataset, this means that you agree with the terms.
 
 # Statistics Summary
 The total number of tweets is 104, 830, 630. The tweets will be updated furthermore.
